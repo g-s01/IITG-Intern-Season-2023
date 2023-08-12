@@ -32,7 +32,7 @@ Alphagrep
 
 [Quadeye](./Slot%201/Quadeye/)
 
-Ebullient Securities
+[Ebullient Securities](./Slot%201/Ebullient%20Securities/)
 
 DE Shaw
 
