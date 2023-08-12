@@ -39,3 +39,6 @@ Q2
 <img src = "./assets/Q3/ThoughtSpot%20Q3-3.png"/>
 <img src = "./assets/Q3/ThoughtSpot%20Q3-4.png"/>
 </details>
+
+## Interview
+\<Insert CSEA link>
