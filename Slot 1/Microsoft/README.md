@@ -31,3 +31,7 @@ Given an infinite stack, one can transfer blocks from ith stack to (i+1)th stack
 <img src = "./assets/Q2/Microsoft%20Q2-1.jpeg"/>
 <img src = "./assets/Q2/Microsoft%20Q2-2.jpeg"/>
 </details>
+
+## Interview
+
+\<Insert CSEA link>

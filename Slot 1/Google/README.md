@@ -90,3 +90,7 @@ More discussions and questions:
 1. [Google Online Assessment Questions](https://leetcode.com/discuss/interview-question/352460/Google-Online-Assessment-Questions)
 
 2. [Special Subsequence](https://leetcode.com/discuss/interview-question/3771949/Google-intern-OA-Problem-15072023-(Special-Subsequence)-Anyone-Please-help-how-to-solve-it) and [another discussion on the same](https://leetcode.com/discuss/interview-question/3759965/Google-Internship-OA)
+
+## Interview
+
+\<Insert CSEA link>
