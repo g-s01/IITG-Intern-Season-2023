@@ -30,7 +30,7 @@ KLA Tencor
 
 Alphagrep
 
-Quadeye
+[Quadeye](./Slot%201/Quadeye/)
 
 Ebullient Securities
 
