@@ -14,9 +14,9 @@
 
 Rubrik
 
-JPMC SDE
+[JPMC SDE](./Slot%201/JPMC%20SDE/)
 
-JPMC Quant
+[JPMC Quant](./Slot%201/JPMC%20Quant/)
 
 Goldman Sachs Quant
 
