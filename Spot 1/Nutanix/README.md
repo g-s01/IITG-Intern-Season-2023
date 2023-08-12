@@ -43,3 +43,7 @@ Q3
 <img src = "./assets/Q3/Nutanix%20Q3-2.png"/>
 <img src = "./assets/Q3/Nutanix%20Q3-3.png"/>
 </details>
+
+## Interview
+
+\<Insert CSEA link>
