@@ -11,18 +11,53 @@ Duration: 8-10 weeks
 
 ### Instructions
 
-![Instructions](./assets/JS-2.jpeg)
+<details>
+<summary>
+1
+</summary>
+<img src = "./assets/JS-2.jpeg"/>
+</details>
 
-![Instructions](./assets/JS-1.jpeg)
+<details>
+<summary>
+2
+</summary>
+<img src = "./assets/JS-1.jpeg"/>
+</details>
 
 ### Questions
 
-1. ![Q1](./assets/JS-3.jpeg)
+<details>
+<summary>
+1
+</summary>
+<img src = "./assets/JS-3.jpeg"/>
+</details>
 
-2. ![Q2](./assets/JS-4.jpeg)
+<details>
+<summary>
+2
+</summary>
+<img src = "./assets/JS-4.jpeg"/>
+</details>
 
-3. ![Q3](./assets/JS-5.jpeg)
+<details>
+<summary>
+3
+</summary>
+<img src = "./assets/JS-5.jpeg"/>
+</details>
 
-4. ![Q4](./assets/JS-6.jpeg)
+<details>
+<summary>
+4
+</summary>
+<img src = "./assets/JS-6.jpeg"/>
+</details>
 
-5. ![Q5](./assets/JS-7.jpeg)
+<details>
+<summary>
+5
+</summary>
+<img src = "./assets/JS-7.jpeg"/>
+</details>

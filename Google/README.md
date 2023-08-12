@@ -15,41 +15,41 @@ Duration: 8-10 weeks
 <summary>
 Q1
 </summary>
-<img src = "./Hybrid%20Sequence/Hybrid%20Sequences-1.jpeg"/>
-<img src = "./Hybrid%20Sequence/Hybrid%20Sequences-2.jpeg"/>
-<img src = "./Hybrid%20Sequence/Hybrid%20Sequences-3.jpeg"/>
-<img src = "./Hybrid%20Sequence/Hybrid%20Sequences-4.jpeg"/>
+<img src = "./assets/Hybrid%20Sequence/Hybrid%20Sequences-1.jpeg"/>
+<img src = "./assets/Hybrid%20Sequence/Hybrid%20Sequences-2.jpeg"/>
+<img src = "./assets/Hybrid%20Sequence/Hybrid%20Sequences-3.jpeg"/>
+<img src = "./assets/Hybrid%20Sequence/Hybrid%20Sequences-4.jpeg"/>
 </details>
 
 <details>
 <summary>
 Q2
 </summary>
-<img src = "/Median%20Sum/Median%20Sum-1.jpeg"/>
-<img src = "/Median%20Sum/Median%20Sum-2.jpeg"/>
-<img src = "/Median%20Sum/Median%20Sum-3.jpeg"/>
-<img src = "/Median%20Sum/Median%20Sum-4.jpeg"/>
-<img src = "/Median%20Sum/Median%20Sum-5.jpeg"/>
+<img src = "/assets/Median%20Sum/Median%20Sum-1.jpeg"/>
+<img src = "/assets/Median%20Sum/Median%20Sum-2.jpeg"/>
+<img src = "/assets/Median%20Sum/Median%20Sum-3.jpeg"/>
+<img src = "/assets/Median%20Sum/Median%20Sum-4.jpeg"/>
+<img src = "/assets/Median%20Sum/Median%20Sum-5.jpeg"/>
 </details>
 
 <details>
 <summary>
 Q3
 </summary>
-<img src = "/Prime%20Grid/Prime%20Grid-1.jpeg"/>
-<img src = "/Prime%20Grid/Prime%20Grid-2.jpeg"/>
-<img src = "/Prime%20Grid/Prime%20Grid-3.jpeg"/>
-<img src = "/Prime%20Grid/Prime%20Grid-4.jpeg"/>
+<img src = "/assets/Prime%20Grid/Prime%20Grid-1.jpeg"/>
+<img src = "/assets/Prime%20Grid/Prime%20Grid-2.jpeg"/>
+<img src = "/assets/Prime%20Grid/Prime%20Grid-3.jpeg"/>
+<img src = "/assets/Prime%20Grid/Prime%20Grid-4.jpeg"/>
 </details>
 
 <details>
 <summary>
 Q4
 </summary>
-<img src = "./Toys/Toys-3.jpeg"/>
-<img src = "./Toys/Toys-2.jpeg"/>
-<img src = "./Toys/Toys-1.jpeg"/>
-<img src = "./Toys/Toys-4.jpeg"/>
+<img src = "./assets/Toys/Toys-3.jpeg"/>
+<img src = "./assets/Toys/Toys-2.jpeg"/>
+<img src = "./assets/Toys/Toys-1.jpeg"/>
+<img src = "./assets/Toys/Toys-4.jpeg"/>
 </details>
 
 See [this](https://leetcode.com/discuss/interview-question/3760132/Google-SWE-Intern-OA-2023-(India)-Both-Questions) for more questions in this year's Google rounds.
