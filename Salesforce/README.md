@@ -1,25 +1,38 @@
 # Salesforce Hiring Process
 <details>
 <summary>Pay and Duration</summary>
-Pay: 1.25L/month
+Pay: 1.5L/month
     
 Duration: 8 weeks
 </details>
 
-## OA
+## OA - Women in Tech
 
 ### Questions
 
-1. ![Q1](./assets/Salesforce%20Q1-1.jpeg)
-    ![Q1](./assets/Salesforce%20Q1-2.jpeg)
+<details>
+<summary>
+Q1
+</summary>
+<img src = "./assets/WiT/Salesforce%20Q1-1.jpeg"/>
+<img src = "../assets/WiT/Salesforce%20Q1-2.jpeg"/>
+</details>
 
+<details>
+<summary>
+Q2
+</summary>
+<img src = "./assets/WiT/Salesforce%20Q2-1.jpeg"/>
+<img src = "./assets/WiT/Salesforce%20Q2-2.jpeg"/>
+</details>
 
-2. ![Q2](./assets/Salesforce%20Q2-1.jpeg)
-    ![Q2](./assets/Salesforce%20Q2-2.jpeg)
-
-3. ![Q3](./assets/Salesforce%20Q3-1.jpeg)
-    ![Q3](./assets/Salesforce%20Q3-2.jpeg)
-
+<details>
+<summary>
+Q3
+</summary>
+<img src = "./assets/WiT/Salesforce%20Q3-1.jpeg"/>
+<img src = "./assets/WiT/Salesforce%20Q3-2.jpeg"/>
+</details>
 
 ### Solutions
 
@@ -94,3 +107,52 @@ Calculate the frequency of each element in the array, then find the mode of the 
 2. What's the advantage of React.js over CSS?
 
 3. Questions related to dev projects
+
+## OA - On campus hiring
+
+### Questions
+
+<details>
+<summary>
+Q1
+</summary>
+<img src = "./assets/On-campus%20hiring/Salesforce%20Q1-1.png"/>
+<img src = "./assets/On-campus%20hiring/Salesforce%20Q1-2.png"/>
+<img src = "./assets/On-campus%20hiring/Salesforce%20Q1-3.png"/>
+</details>
+
+<details>
+<summary>
+Q2
+</summary>
+<img src = "./assets/On-campus%20hiring/Salesforce%20Q2.png"/>
+</details>
+
+<details>
+<summary>
+Q3
+</summary>
+<img src = "./assets/On-campus%20hiring/Salesforce%20Q3.png"/>
+</details>
+
+### Solutions
+
+<details>
+<summary>
+Q1
+</summary>
+One can maintain a map of double, char -> int to store the potential number N and the associated operation. Maintain the map's frequency only for those elements which are of the form sequence.size() - m*k where m is a natural number.
+</details>
+
+<details>
+<summary>
+Q2
+</summary>
+It is a straight-forward implementation question using substr and map.
+</details>
+<details>
+<summary>
+Q3
+</summary>
+<img src = "./assets/On-campus%20hiring/Salesforce%20Q3%20solution.jpeg">
+</details>
