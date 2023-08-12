@@ -10,7 +10,7 @@ BCG
 
 [Google](./Google/)
 
-Microsoft
+[Microsoft](./Microsoft/)
 
 Rubrik
 
