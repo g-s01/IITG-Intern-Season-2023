@@ -93,3 +93,7 @@ WinZo
 [Citadel](./Off%20campus/Citadel/)
 
 [GSA Capital](./Off%20campus/GSA%20Capital/)
+
+## Other Colleges
+
+[Graviton-IITK](./Other%20Colleges/Graviton-IITK/)
