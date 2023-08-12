@@ -56,7 +56,7 @@ Adobe
 
 JM Financial
 
-Cohesity
+[Cohesity](./Spot%201/Cohesity/)
 
 Bajaj Auto
 
