@@ -4,13 +4,13 @@
 
 BCG
 
-[Jane Street](./Jane%20Street/)
+[Jane Street](./Spot%200/Jane%20Street/)
 
 ## Slot 1
 
-[Google](./Google/)
+[Google](./Slot%201/Google/)
 
-[Microsoft](./Microsoft/)
+[Microsoft](./Slot%201/Microsoft/)
 
 Rubrik
 
@@ -18,7 +18,7 @@ JPMC SDE
 
 JPMC Quant
 
-Goldman Sachs 
+Goldman Sachs Quant
 
 Goldman Sachs CS
 
@@ -38,13 +38,13 @@ DE Shaw
 
 ## Spot 1
 
-[Salesforce](./Salesforce/)
+[Salesforce](./Spot%201/Salesforce/)
 
 UI Path
 
-[Nutanix](./Nutanix/)
+[Nutanix](./Spot%201/Nutanix/)
 
-[ThoughtSpot](./ThoughtSpot/)
+[ThoughtSpot](./Spot%201/ThoughtSpot/)
 
 AQR Capital
 
@@ -87,3 +87,9 @@ Flipkart
 BNY Mellon
 
 WinZo
+
+## Off campus
+
+[Citadel](./Off%20campus/Citadel/)
+
+[GSA Capital](./Off%20campus/GSA%20Capital/)
