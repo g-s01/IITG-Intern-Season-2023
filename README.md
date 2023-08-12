@@ -2,7 +2,7 @@
 
 ## Spot 0
 
-BCG
+[BCG](./Spot%200/BCG/)
 
 [Jane Street](./Spot%200/Jane%20Street/)
 
