@@ -28,7 +28,7 @@ Sprinklr
 
 KLA Tencor
 
-Alphagrep
+[Alphagrep](./Slot%201/Alphagrep/)
 
 [Quadeye](./Slot%201/Quadeye/)
 
