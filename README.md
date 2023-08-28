@@ -94,6 +94,8 @@ WinZo
 
 [GSA Capital](./Off%20campus/GSA%20Capital/)
 
+[SIG](./Off%20campus/SIG/)
+
 ## Other Colleges
 
 [Graviton-IITK](./Other%20Colleges/Graviton-IITK/)
